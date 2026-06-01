@@ -3,7 +3,7 @@ A full SQL‑based analysis exploring healthcare utilisation, emergency demand, 
 This project demonstrates data exploration, KPI development, and insight generation using real‑world healthcare concepts.
 
 # Objective
-To analyse patient encounters, service mix, emergency utilisation, financial trends, and hypertension management within a two-year period in order to understand how service utilisation, costs, and chronic disease burden evolved over time within a patient population.
+To analyse patient encounters, service mix, emergency utilisation, financial trends, and hypertension management within a three-year period in order to understand how service utilisation, costs, and chronic disease burden evolved over time within a patient population.
 
 # Dataset
 Two MySQL tables:
