@@ -2,6 +2,8 @@
 A full SQL‑based analysis exploring healthcare utilisation, emergency demand, financial trends, and hypertension management across a three‑year period.
 This project demonstrates data exploration, KPI development, and insight generation using real‑world healthcare concepts.
 
+Note: This project uses fully synthetic, non‑identifiable healthcare data created for learning and demonstration purposes. No real patient information is included.
+
 # Objective
 To analyse patient encounters, service mix, emergency utilisation, financial trends, and hypertension management within a three-year period in order to understand how service utilisation, costs, and chronic disease burden evolved over time within a patient population.
 
