@@ -6,8 +6,9 @@ This project demonstrates data exploration, KPI development, and insight generat
 To analyse patient encounters, service mix, emergency utilisation, financial trends, and hypertension management within a two-year period in order to understand how service utilisation, costs, and chronic disease burden evolved over time within a patient population.
 
 # Dataset
-
-
+Two MySQL tables:
+- Observations table
+- Encounters table
 
 # Analysis Pillars
 Utilisation Analysis
