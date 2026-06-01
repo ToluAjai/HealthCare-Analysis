@@ -37,7 +37,7 @@ Hypertension & BP Monitoring
 - CASE‑based grouping
 - Aggregations & multi‑level grouping
 - Date extraction & filtering
-- Subqueries for KPI calculation
+- Window Functions
 
 # Key Insights 
 - Utilisation & Cost Efficiency: Overall utilisation declined year‑on‑year, reducing total costs while average cost per encounter remained stable.
