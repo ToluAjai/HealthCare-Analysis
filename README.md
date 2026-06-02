@@ -1,5 +1,5 @@
 # Healthcare Utilisation & Clinical Quality Analysis (2017–2019) SQL Project
-A full SQL‑based analysis exploring healthcare utilisation, emergency demand, financial trends, and hypertension management across a three‑year period.
+An SQL‑based analysis exploring healthcare utilisation, emergency demand, financial trends, and hypertension management across a three‑year period in healthcare facility.
 This project demonstrates data exploration, KPI development, and insight generation using real‑world healthcare concepts.
 
 Note: This project uses fully synthetic, non‑identifiable healthcare data created for learning and demonstration purposes. No real patient information is included.
